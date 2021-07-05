@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ortalama_Hesablama.iml" filepath="$PROJECT_DIR$/.idea/modules/Ortalama_Hesablama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ortalama_Hesablama.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ortalama_Hesablama.app.iml" />
+    </modules>
+  </component>
+</project>
